@@ -6,7 +6,7 @@ Tableau de peinture :
 œuvre de Zao Wou Ki
 
 
-_« L'analyse a pour but l'avènement d'une parole vraie »_ Jacques Lacan, Les Ecrits
+_ « L'analyse a pour but l'avènement d'une parole vraie » _ Jacques Lacan, Les Ecrits
 
 
 
@@ -26,13 +26,13 @@ au 06 83 56 85 61 et au 01 34 69 47 02
 
 
 
-##Consultations, entretiens, soutien psychologique, psychothérapies analytiques, psychanalyse individuelle
+## Consultations, entretiens, soutien psychologique, psychothérapies analytiques, psychanalyse individuelle
 
 
-##Adultes et adolescents
+## Adultes et adolescents
 
 
-###Ma pratique s'inscrit dans la continuité de la clinique psychanalytique telle qu'elle a été initialement définie par Sigmund Freud, réinterprétée par Jacques Lacan, puis développée jusqu'à aujourd'hui.
+### Ma pratique s'inscrit dans la continuité de la clinique psychanalytique telle qu'elle a été initialement définie par Sigmund Freud, réinterprétée par Jacques Lacan, puis développée jusqu'à aujourd'hui.
 
 
 - Accueil
