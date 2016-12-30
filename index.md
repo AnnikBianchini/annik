@@ -1,4 +1,4 @@
-#Annik Bianchini Depeint, psychanalyste à Paris et à l'Isle-Adam, Thérapies analytiques
+# Annik Bianchini Depeint, psychanalyste à Paris et à l'Isle-Adam, Thérapies analytiques
 
 
 Tableau de peinture : 
