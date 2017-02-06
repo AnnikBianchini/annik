@@ -5,7 +5,7 @@
 
 
 ## « L'analyse a pour but l'avènement d'une parole vraie » 
-text-align: center; Jacques Lacan, Les Ecrits
+Jacques Lacan, Les Ecrits
 
 
 Mettre des mots sur ce que l'on ressent en parlant avec un thérapeute permet de se sentir mieux, de vivre en étant plus heureux. 
