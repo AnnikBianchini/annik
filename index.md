@@ -23,7 +23,7 @@ A 100m de la clinique vétérinaire
 Sur rendez-vous :
 au 06 83 56 85 61 et au 01 34 69 47 02
 
-![test](images/51CDX2OjjPL._SL1024_.jpg)
+![test](C:\Users\Marc\Downloads\Photos Za Wou Ki II\Photos Za Wou Ki II)
 
 ## Consultations, entretiens, soutien psychologique, psychothérapies analytiques, psychanalyse individuelle
 
