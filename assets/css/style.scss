@@ -1,4 +1,8 @@
----// css
+---
+---
+
+@import "{{ site.theme }}";
+
 #menu {
   width: 960px;
   height: 40px;
@@ -87,6 +91,3 @@ ul#nav li:hover > ul li a:hover {
   text-decoration: none;
   text-shadow: none;
 }
----
-
-@import "{{ site.theme }}";
