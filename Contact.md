@@ -7,9 +7,9 @@
 
  # Consultations sur rendez-vous 
  
-- Par téléphone  06 83 56 85 61 ou 01 34 69 47 02
+-Par téléphone  06 83 56 85 61 ou 01 34 69 47 02
 
-- Par mail <a.bianchini@wanadoo.fr>
+-Par mail <a.bianchini@wanadoo.fr>
 
 
 
