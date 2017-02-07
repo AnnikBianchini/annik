@@ -4,14 +4,13 @@
 ![test](images/images.jpg )
 
 
-<div id="rdv">
+<div id='rdv'>
 
-### Consultations sur rendez-vous 
- 
-- Par téléphone  06 83 56 85 61 ou 01 34 69 47 02
-
-- Par mail <a.bianchini@wanadoo.fr>
-
+<h3>Consultations sur rendez-vous</h3>
+<ul>
+<li>Par téléphone  06 83 56 85 61 ou 01 34 69 47 02</li>
+<li>Par mail <a href="mailto:a.bianchini@wanadoo.fr">a.bianchini@wanadoo.fr</a></li>
+</ul>
 </div>
 
 
