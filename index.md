@@ -9,7 +9,7 @@ Tableau de peinture :
 œuvre de Zao Wou Ki
 
 
-_« L'analyse a pour but l'avènement d'une parole vraie »_ Jacques Lacan, Les Ecrits
+< « L'analyse a pour but l'avènement d'une parole vraie » >  Jacques Lacan, Les Ecrits
 
 
 
