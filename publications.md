@@ -23,7 +23,7 @@ Jacques Lacan, Les Ecrits
 
 - Revue Psychologie clinique, Lectures :  « Les toiles des rêves, Arts, mythes et inconscient »…
 
-- Auteur de la rubrique « Le Cabinet de Lecture »  sur le site œdipelesalon.com. Textes et commentaires de livres de psychanalyse, écrits par des psychanalystes. <http://www.oedipelesalon.com/cabinet> [google] (http://www.google.com "link to google")
+- Auteur de la rubrique « Le Cabinet de Lecture »  sur le site œdipelesalon.com. Textes et commentaires de livres de psychanalyse, écrits par des psychanalystes. [google](http://www.google.com)
 
 
 ## Presse
