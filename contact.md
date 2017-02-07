@@ -4,7 +4,6 @@
 ![test](images/images.jpg )
 
 
-
 <div id='rdv'>
 <h3>Consultations sur rendez-vous</h3>
 <ul>
@@ -12,8 +11,6 @@
 <li>Par mail <a href="mailto:a.bianchini@wanadoo.fr">a.bianchini@wanadoo.fr</a></li>
 </ul>
 </div>
-
-
 
 
 | Sur Paris                                          |  Sur l'Isle-Adam  |
