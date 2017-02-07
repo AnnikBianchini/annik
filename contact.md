@@ -4,6 +4,7 @@
 ![test](images/images.jpg )
 
 
+<div id="rdv">
 
 ### Consultations sur rendez-vous 
  
@@ -11,6 +12,7 @@
 
 - Par mail <a.bianchini@wanadoo.fr>
 
+</div>
 
 
 | Sur Paris                                          |  Sur l'Isle-Adam  |
