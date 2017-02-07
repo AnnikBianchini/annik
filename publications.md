@@ -88,8 +88,13 @@ Quelques exemples d'articles:
 
 ### Histoire: quelques exemples d'articles.
 
-- Notre Histoire : « Il savait tout, Pic de la Mirandole », « Giordano Bruno, visionnaire sacrifié »…
-- Dossiers secrets de l'histoire  : « Le clan des Borgia », « Ivan le Terrible », « Attila, le fléau de Dieu », « Charlemagne, père de l'Europe », « La Dolce Vita dans la Rome antique », « Ulysse, le héros aux mille tours », « La femme étrusque, première féministe », « Au commencement était Montmartre »… 
-- Miroir de l'histoire (Annibal comme Hitler », « Quand les inquisiteurs torturaient les sorcières »…
+- Notre Histoire 
+« Il savait tout, Pic de la Mirandole », « Giordano Bruno, visionnaire sacrifié  »
+
+- Dossiers secrets de l'histoire  
+« Le clan des Borgia », « Ivan le Terrible », « Attila, le fléau de Dieu », « Charlemagne, père de l'Europe », « La Dolce Vita dans la Rome antique », « Ulysse, le héros aux mille tours », « La femme étrusque, première féministe », « Au commencement était Montmartre »
+
+- Miroir de l'histoire 
+« Annibal comme Hitler », « Quand les inquisiteurs torturaient les sorcières »
 
 
