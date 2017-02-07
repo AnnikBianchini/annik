@@ -31,10 +31,10 @@ Tableau de peinture :
 
 
 
-# Consultations, entretiens, soutien psychologique, psychothérapies analytiques, psychanalyse individuelle
+#### Consultations, entretiens, soutien psychologique, psychothérapies analytiques, psychanalyse individuelle
 
 
-# Adultes et adolescents
+#### Adultes et adolescents
 
 
 
