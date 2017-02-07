@@ -82,7 +82,7 @@ Quelques exemples d'articles:
 
 [La France excelle dans la chirurgie sans ouvrir](http:// www.ambafrance-km.org/La-France-excelle-dans-la-chirurgie-sans-ouvrir)
 
-[Les mathématiques françaises brillent par leur niveau d'excellence](http:// www.ambafrance-nl.org/Les-mathematiques-francaises- brillent-par-leur-niveau-d-excellence)
+[Les mathématiques françaises brillent par leur niveau d'excellence](http:// www.ambafrance-nl.org/Les-mathematiques-francaises)
 
 
 
