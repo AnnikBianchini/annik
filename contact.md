@@ -20,20 +20,3 @@
 | Métro Saint-Paul Le Marais                       | A 100 m de la clinique vétérinaire  |
 
 		
-
-
-### Demande de contact par courriel : 
-
-
-Merci de bien vouloir préciser vos coordonnées et votre demande
-
-
-Votre nom :
-
-Votre prénom : 
-
-Votre e-mail : 
-
-Votre numéro de téléphone : 
-
-Votre message : 
