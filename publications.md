@@ -10,39 +10,40 @@ Jacques Lacan, Les Ecrits
 
 ## Edition
 
-Œdipe à Cadix, « La quête de la Chose ou les profondeurs du désir », in Moby Dick ou le désir dont il s'agit ,  Editions des Crépuscules, Paris, 2015 : livre collectif.
+- Œdipe à Cadix, « La quête de la Chose ou les profondeurs du désir », in Moby Dick ou le désir dont il s'agit ,  Editions des Crépuscules, Paris, 2015 : livre collectif.
 
 
-Œdipe à Florence, « Entre l'amour et la langue, la Divine Comédie », in Dante : divan et Divine Comédie, Editions des Crépuscules, Paris, 2014 : livre collectif.
+- Œdipe à Florence, « Entre l'amour et la langue, la Divine Comédie », in Dante : divan et Divine Comédie, Editions des Crépuscules, Paris, 2014 : livre collectif.
 
 
-Œdipe à Alcala, « L'invention de Don Quichotte : une figure de l'emprise de l'imaginaire », in Le désir du psychanalyste à l'épreuve de Don Quichotte, Editions des Crépuscules, Paris, 2012 : livre collectif.
+- Œdipe à Alcala, « L'invention de Don Quichotte : une figure de l'emprise de l'imaginaire », in Le désir du psychanalyste à l'épreuve de Don Quichotte, Editions des Crépuscules, Paris, 2012 : livre collectif.
 
 
-Publications  in  Che Vuoi ? , revue de psychanalyse, Le Cercle Freudien : « De l'amour et de  la haine », Nouvelle série, N°1,  2016, « Le nouvel amour »…, Lectures : « Dérives adolescentes : de la délinquance au djihadisme », « Les revenants de la mémoire »…
-Dans la revue Psychologie clinique, Lectures :  « Les toiles des rêves, Arts, mythes et inconscient »…
+- Publications  in  Che Vuoi ? , revue de psychanalyse, Le Cercle Freudien : « De l'amour et de  la haine », Nouvelle série, N°1,  2016, « Le nouvel amour »…, Lectures : « Dérives adolescentes : de la délinquance au djihadisme », « Les revenants de la mémoire »…
 
+- Revue Psychologie clinique, Lectures :  « Les toiles des rêves, Arts, mythes et inconscient »…
 
-
-Auteur de la rubrique « Le Cabinet de Lecture »  sur le site œdipelesalon.com. Textes et commentaires de livres de psychanalyse, écrits par des psychanalystes. 
-http://www.oedipelesalon.com/cabinet
+- Auteur de la rubrique « Le Cabinet de Lecture »  sur le site œdipelesalon.com. Textes et commentaires de livres de psychanalyse, écrits par des psychanalystes. [url](http://www.oedipelesalon.com/cabinet)
 
 
 ## Presse
 
 ### Psychanalyse-Psychologie
 
-articles, enquêtes, interviews de psychanalystes, dans la rubrique «Psy ». Quelques exemples d'articles.    
-- Femme Actuelle :  « Secret de famille : ce qu'apporte la révélation », « Amour et rapports de force, on gère comment ? » ,
-« Dis-moi comment tu passes à table… »… 
-- Prima  : « S'aimer… quand tout vous oppose ! »… 
-- Alternative Santé : «  Démotivés ? Retrouver le goût de travailler », « Se libérer du TOC », « Lutter contre la violence à l'école »,
-« Les allergiques, victimes de la modernité »…  
-- Tribune-Santé : « A chacun son intelligence », « Echec scolaire : agir et réagir »…  
-- Réponses-Santé :  « Le mensonge, un mal nécessaire ? », « Dans les tourments de la jalousie », « Mère-fille, un duo turbulent », 
-« Les drogués du jeu ou de l'alcool »,  « La tentation de l'infidélité », « Couple, les jeux du pouvoir », « L'argent dans le  couple »,
+Articles, enquêtes, interviews de psychanalystes, dans la rubrique «Psy ». 
 
-« Aimer jusqu'au bout de la vie », …  
+Quelques exemples d'articles:  
+
+- Femme Actuelle :  « Secret de famille : ce qu'apporte la révélation », « Amour et rapports de force, on gère comment ? » , « Dis-moi comment tu passes à table… »
+
+- Prima  : « S'aimer… quand tout vous oppose ! »
+
+- Alternative Santé : «  Démotivés ? Retrouver le goût de travailler », « Se libérer du TOC », « Lutter contre la violence à l'école », « Les allergiques, victimes de la modernité »
+
+- Tribune-Santé : « A chacun son intelligence », « Echec scolaire : agir et réagir »
+
+- Réponses-Santé :  « Le mensonge, un mal nécessaire ? », « Dans les tourments de la jalousie », « Mère-fille, un duo turbulent », « Les drogués du jeu ou de l'alcool »,  « La tentation de l'infidélité », « Couple, les jeux du pouvoir », « L'argent dans le  couple », « Aimer jusqu'au bout de la vie »
+
 - Sciences Humaines :   « Littérature et psychanalyse » : www.scienceshumaines.com/litterature-et-psychanalyse_fr.
 « Qu'est-ce que l'hystérie ?  »  : www.scienceshumaines.com/qu-est-ce-que-l-hysterie_fr. 
 « Pourquoi la psychanalyse ? :  www.scienceshumaines.com/pourquoi-la-psychanalyse_fr. 
