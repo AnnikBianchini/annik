@@ -44,16 +44,31 @@ Quelques exemples d'articles:
 
 - Réponses-Santé :  « Le mensonge, un mal nécessaire ? », « Dans les tourments de la jalousie », « Mère-fille, un duo turbulent », « Les drogués du jeu ou de l'alcool »,  « La tentation de l'infidélité », « Couple, les jeux du pouvoir », « L'argent dans le  couple », « Aimer jusqu'au bout de la vie »
 
-- Sciences Humaines :   « Littérature et psychanalyse » : www.scienceshumaines.com/litterature-et-psychanalyse_fr.
-« Qu'est-ce que l'hystérie ?  »  : www.scienceshumaines.com/qu-est-ce-que-l-hysterie_fr. 
-« Pourquoi la psychanalyse ? :  www.scienceshumaines.com/pourquoi-la-psychanalyse_fr. 
-A la recherche de l'avenir  : Un défi pour la psychanalyse et la psychothérapie » : https://www.scienceshumaines.com/a-la-recherche-de-l-avenir-un-défi-pour-la-psychanalyse-et-la-psychotherapie_fr_201.html .
-« Le livre de Pierre » : https://www.scienceshumaines.com/le-livre-de-pierre_fr.
-« L'énigme de la manie » : https://www.scienceshumaines.com/l-enigme-de-la-manie_fr. 
-« Main basse sur les vivants » : www.scienceshumaines.com/main-basse-sur-les-vivants_fr_315.html. 
-« Le maître des insensés » : www.scienceshumaines.com/le-maitre-des-insenses_fr_10208.html 
-« Le sphinx et le Graal : le secret de l'énigme » : www.scienceshumaines.com/le-sphinx-et-le-graal-le-secret-de-l-enigme_fr_10972.html. « Temps des glaciations. 
-Voyage dans le monde de la folie » : www.scienceshumaines.com/temps-des-glaciations-voyage-dans-le-monde-de-la-folie.
+
+
+
+- Sciences Humaines :   
+[Littérature et psychanalyse](http://www.scienceshumaines.com/litterature-et-psychanalyse_fr)
+
+[Qu'est-ce que l'hystérie ?](http://www.scienceshumaines.com/qu-est-ce-que-l-hysterie_fr)
+
+[Pourquoi la psychanalyse ?](http://www.scienceshumaines.com/pourquoi-la-psychanalyse_fr)
+
+[A la recherche de l'avenir, un défi pour la psychanalyse et la psychothérapie](https://www.scienceshumaines.com/a-la-recherche-de-l-avenir-un-défi-pour-la-psychanalyse-et-la-psychotherapie_fr_201.html )
+
+[Le livre de Pierre](https://www.scienceshumaines.com/le-livre-de-pierre_fr)
+
+[L'énigme de la manie](https://www.scienceshumaines.com/l-enigme-de-la-manie_fr)
+
+[Main basse sur les vivants](http://www.www.scienceshumaines.com/main-basse-sur-les-vivants_fr_315.html)
+
+[Le maître des insensés](http://www.scienceshumaines.com/le-maitre-des-insenses_fr_10208.html)
+
+[Le sphinx et le Graal, le secret de l'énigme](http:// www.scienceshumaines.com/le-sphinx-et-le-graal-le-secret-de-l-enigme_fr_10972.html)
+
+[Temps des glaciations, voyage dans le monde de la folie](www.scienceshumaines.com/temps-des-glaciations-voyage-dans-le-monde-de-la-folie)
+
+
 
 ### Arts, sciences, société 
 
