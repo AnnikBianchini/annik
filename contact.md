@@ -24,7 +24,6 @@
 
 ### Demande de contact par courriel : 
 
-<a mailto:'annik@yahoo.dfk'>mail</a>
 
 Merci de bien vouloir préciser vos coordonnées et votre demande
 
