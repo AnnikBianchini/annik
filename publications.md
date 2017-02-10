@@ -4,8 +4,7 @@
 ![test](images/images.jpg )
 
 
-#### «  Dans le langage, notre message nous vient de l'Autre, sous une forme inversée  » 
-Jacques Lacan, Les Ecrits
+ « *Dans le langage, notre message nous vient de l'Autre, sous une forme inversée* ». Jacques Lacan, Les Ecrits
 
 
 #### Edition
