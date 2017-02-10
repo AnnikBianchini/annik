@@ -13,7 +13,7 @@ Tableau de peinture :
 </ul>
 </div>
 
-
+« *On finit toujours par devenir un personnage de sa propre histoire. La psychanalyse permet seulement d'accélérer ce processus* »
 
 <div id='rdv'>
 <h3>Consultations sur rendez-vous</h3>
