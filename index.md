@@ -1,11 +1,5 @@
 
 # Accueil
-# Annik Bianchini Depeint, psychanalyste à Paris 4ème et à l'Isle-Adam, psychothérapies analytiques
-
-
-Tableau de peinture : 
-œuvre de Zao Wou Ki
-
 
 « *On finit toujours par devenir un personnage de sa propre histoire. La psychanalyse permet seulement d'accélérer ce processus* ». Jacques Lacan, Les Ecrits.
 
@@ -42,3 +36,5 @@ Tableau de peinture :
 - Membre du Cercle Freudien, membre du Salon Œdipe
 - Tarifs modérés
 - Consultations en français et en italien 
+
+Tableaux de peinture: œuvre de Zao Wou Ki
