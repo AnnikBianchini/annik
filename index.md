@@ -37,4 +37,4 @@
 - Tarifs modérés
 - Consultations en français et en italien 
 
-Tableaux de peinture: œuvre de Zao Wou Ki
+** Tableaux de peinture: œuvre de Zao Wou Ki**
