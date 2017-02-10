@@ -35,7 +35,7 @@ Le langage, aussi, est le lieu privilégié de la psychanalyse et de la littéra
      Société Santé Port Royal, Le Bulletin des Communes.
      Formation : Ecoles de journalisme : CPJ (Paris), CFD (Paris).
      
- - Professeur de Lettres au Centre Culturel Français de Rome (Centro di studi italo-francesi, Piazza di Campitelli, 3).
+- Professeur de Lettres au Centre Culturel Français de Rome (Centro di studi italo-francesi, Piazza di Campitelli, 3).
      
 
 ### Les Liens
