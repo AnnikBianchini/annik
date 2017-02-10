@@ -9,6 +9,7 @@ Tableau de peinture :
 <div id='rdv'>
 <h3> «*On finit toujours par devenir un personnage de sa propre histoire. La psychanalyse permet seulement d'accélérer ce processus* » </h3>
 <ul>
+<li>«*On finit toujours par devenir un personnage de sa propre histoire. La psychanalyse permet seulement d'accélérer ce processus* »</li>
 <li>Jacques Lacan, Les Ecrits</li>
 </ul>
 </div>
