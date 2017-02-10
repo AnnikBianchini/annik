@@ -6,14 +6,9 @@
 Tableau de peinture : 
 œuvre de Zao Wou Ki
 
-<div id='rdv'>
-<ul>
-<li> « *On finit toujours par devenir un personnage de sa propre histoire. La psychanalyse permet seulement d'accélérer ce processus* »</li>
-<li>Jacques Lacan, Les Ecrits</li>
-</ul>
-</div>
 
 « *On finit toujours par devenir un personnage de sa propre histoire. La psychanalyse permet seulement d'accélérer ce processus* »
+Jacques Lacan, Les Ecrits
 
 <div id='rdv'>
 <h3>Consultations sur rendez-vous</h3>
