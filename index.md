@@ -1,6 +1,4 @@
 
-![test](images/Vroeland-Feu - Triptyque 70x150cm.jpg )
-
 
 # Annik Bianchini Depeint, psychanalyste à Paris 4ème et à l'Isle-Adam, psychothérapies analytiques
 
