@@ -38,3 +38,9 @@ Le langage, aussi, est le lieu privilégié de la psychanalyse et de la littéra
 - Professeur de Lettres au Centre Culturel Français de Rome (Centro di studi italo-francesi, Piazza di Campitelli, 3).
 
 
+### Les Liens
+
+- [Département de Psychanalyse de l'Université Paris 8](http://www.ufr-sepf.univ-paris8.fr)
+- [Cercle Freudien](http://www.cerclefreudien.org)
+- [Salon Œdipe](http://www.oedipelesalon.com)
+
