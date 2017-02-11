@@ -10,9 +10,9 @@
 <B>  Mettre des mots sur ce que l'on ressent en parlant avec un thérapeute permet de se sentir mieux, de vivre en étant plus heureux. 
 La psychanalyse offre un lieu d'écoute privilégié où l'on voit naître sa « vraie parole ». Que l'on soit en présence de difficultés qui 
 se répètent dans la vie affective, familiale ou  sociale, de ruptures (amoureuses ou au travail), de traumatismes, de manque de confiance 
-en soi ou d'hyper-sensibilité, il importe de parler de  sa souffrance, de son angoisse, de son anxiété et de ce qui arrive. </B>
+en soi ou d'hyper-sensibilité, il importe de parler de  sa souffrance, de son angoisse, de son anxiété et de ce qui arrive.</B> Mais rencontrer un psychanalyste n'implique pas nécessairement de faire une analyse. 
 
-Mais rencontrer un psychanalyste n'implique pas nécessairement de faire une analyse. 
+
 
 
 ### Les psychothérapies analytiques
@@ -28,6 +28,7 @@ Cependant, malgré des bases théoriques similaires, les psychothérapies analyt
 la discussion interactive entre le patient et le thérapeute.
 La psychothérapie analytique a pour but la disparition de l'origine du symptôme, une fois que les causes ont été reconnues, identifiées, comprises. Ainsi, la situation peut être transformée et la vie changée.  Elle se  termine quand le patient a acquis une bonne maîtrise de lui-même et apprend à gérer ses conflits intérieurs. 
 Le rythme des séances est souple. La thérapie peut durer de trois mois à quelques années. 
+
 
 
 
@@ -49,6 +50,7 @@ plusieurs années.
 
 
 
+
 ### Les psychothérapies analytiques brèves 
 
 Ces thérapies sont destinées à faire disparaître la souffrance du patient dans un temps relativement court. Le psychanalyste s'attache,
@@ -56,6 +58,7 @@ dans un espace de parole partagée, à écouter et à reconnaître chacun dans c
 parole de produire des effets. Le but de ces thérapies est que le patient puisse envisager comment il est partie prenante dans les 
 symptômes qui le tourmentent, afin de de s'en dégager.
 Ces thérapies, réalisées en face à face sous forme de conversations personnalisées, durent de quelques séances à plusieurs mois. 
+
 
 
 
