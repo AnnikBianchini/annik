@@ -1,6 +1,4 @@
 
-# Accueil
-
 « *On finit toujours par devenir un personnage de sa propre histoire. La psychanalyse permet seulement d'accélérer ce processus* ». Jacques Lacan, Les Ecrits.
 
 <div id='rdv'>
@@ -37,4 +35,4 @@
 - Tarifs modérés
 - Consultations en français et en italien 
 
-**Tableaux de peinture: œuvre de Zao Wou Ki**
+Tableaux de peinture: œuvre de Zao Wou Ki
