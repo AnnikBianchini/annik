@@ -51,9 +51,7 @@ Articles, enquêtes, interviews de psychanalystes, dans la rubrique «Psy ».
 
 
 ### Arts, sciences, société, 
-
-
-<FONT size="4pt"> <FONT color="black"> <I> Psychanalyse-Psychologie </I> </FONT></FONT>
+<FONT size="2pt"> <FONT color="black"> <I> Psychanalyse-Psychologie </I> </FONT></FONT>
 
 - Actualité en France (MAEE) : 
 « [Lacan : trente ans après, une œuvre toujours vivante](http://www.ambafrance-kh.org/Lacan-trente-ans-apres-une-oeuvre),
