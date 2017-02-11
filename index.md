@@ -1,5 +1,4 @@
-
-« *On finit toujours par devenir un personnage de sa propre histoire. La psychanalyse permet seulement d'accélérer ce processus* ». Jacques Lacan, Les Ecrits.
+« *On finit toujours par devenir un personnage de sa propre histoire. La psychanalyse permet seulement d'accélérer ce processus* ». Jacques Lacan, *Les Ecrits*.
 
 <div id='rdv'>
 <h3>Consultations sur rendez-vous</h3>
@@ -10,20 +9,22 @@
 </div>
 
 
-| Cabinet au:                                          |  Cabinet au:  |
+
+| <FONT size="10pt"> Cabinet au :   </FONT>           | <FONT size="10pt"> Cabinet au :   </FONT>  |
 |----------------------------------------------------|-------------------|
 |15, rue de Sévigné 				             | 36, Avenue du Chemin Vert |
 | 75004 Paris                                      | 95290 L'Isle-Adam|
-| (Métro Saint-Paul Le Marais)                       | (A 100 m de la clinique vétérinaire)  |
+| <FONT size="10pt"> (Métro Saint-Paul Le Marais)   </FONT>     | <FONT size="10pt"> (A 100 m de la clinique vétérinaire)   </FONT>  |
 |![test](images/paris-salon.jpg )                  |   ![test](images/l-isle-adam.jpg )|
 
 
 
 
-#### Consultations, entretiens, soutien psychologique, psychothérapies analytiques, psychanalyse individuelle
+### Consultations, entretiens, soutien psychologique, psychothérapies analytiques
+### Psychanalyse individuelle
 
 
-#### Adultes et adolescents
+### Adultes et adolescents
 
 
 
