@@ -4,10 +4,10 @@
 ![test](images/images.jpg )
 
 
- « *Dans le langage, notre message nous vient de l'Autre, sous une forme inversée* ». Jacques Lacan, Les Ecrits
+ « *Dans le langage, notre message nous vient de l'Autre, sous une forme inversée* ». Jacques Lacan, *Les Ecrits.*
 
 
-#### Edition
+### Edition
 
 - Œdipe à Cadix
 « La quête de la Chose ou les profondeurs du désir », in Moby Dick ou le désir dont il s'agit ,  Editions des Crépuscules, Paris, 2015 : livre collectif.
@@ -18,15 +18,13 @@
 - Œdipe à Alcala
 « L'invention de Don Quichotte : une figure de l'emprise de l'imaginaire », in Le désir du psychanalyste à l'épreuve de Don Quichotte, Editions des Crépuscules, Paris, 2012 : livre collectif.
 
-- Publications  in  Che Vuoi ? , revue de psychanalyse, Le Cercle Freudien : « De l'amour et de  la haine », Nouvelle série, N°1,  2016, « Le nouvel amour »…, Lectures : « Dérives adolescentes : de la délinquance au djihadisme », « Les revenants de la mémoire »…
-
-- Revue Psychologie clinique, Lectures :  « Les toiles des rêves, Arts, mythes et inconscient »…
-
 - Auteur de la rubrique « Le Cabinet de Lecture »  sur le site [œdipelesalon.com](http://www.oedipelesalon.com/cabinet). Textes et commentaires de livres de psychanalyse, écrits par des psychanalystes.
 
+- Publications  in  Che Vuoi ? , revue de psychanalyse, Le Cercle Freudien : « De l'amour et de  la haine », Nouvelle série, N°1,  2016, « Le nouvel amour »…, Lectures : « Dérives adolescentes : de la délinquance au djihadisme », « Les revenants de la mémoire »…, Revue Psychologie clinique, Lectures :  « Les toiles des rêves, Arts, mythes et inconscient »…
 
-#### Presse
-#### Psychanalyse-Psychologie
+
+
+### Presse
 
 Articles, enquêtes, interviews de psychanalystes, dans la rubrique «Psy ». 
  
@@ -52,9 +50,10 @@ Articles, enquêtes, interviews de psychanalystes, dans la rubrique «Psy ».
 [Le sphinx et le Graal, le secret de l'énigme](http:// www.scienceshumaines.com/le-sphinx-et-le-graal-le-secret-de-l-enigme_fr_10972.html), [Temps des glaciations, voyage dans le monde de la folie](www.scienceshumaines.com/temps-des-glaciations-voyage-dans-le-monde-de-la-folie)
 
 
-#### Arts, sciences, société 
+### Arts, sciences, société, <I> Psychanalyse-Psychologie </I>
 
 - Actualité en France (MAEE) : 
+« [Lacan : trente ans après, une œuvre toujours vivante](http://www.ambafrance-kh.org/Lacan-trente-ans-apres-une-oeuvre),
 [Le projet du Grand Paris inspire celui du Grand Moscou](http://www.ambafrance-kr.org/Actualite-en-France,1856),
 [Pont culturel entre les deux rives de la Méditerranée, le MuCEM ouvre ses portes](http://www.ambafrance-kr.org/Actualite-en-France,2121),
 [Marseille-Provence 2013, capitale européenne de la culture](http:// www.ambafrance-pl.org/Marseille-Provence-2013-capitale),
@@ -65,7 +64,7 @@ Articles, enquêtes, interviews de psychanalystes, dans la rubrique «Psy ».
 [Les mathématiques françaises brillent par leur niveau d'excellence](http:// www.ambafrance-nl.org/Les-mathematiques-francaises)
 
 
-#### Histoire
+### Histoire
 
 - Notre Histoire : 
 « Il savait tout, Pic de la Mirandole », « Giordano Bruno, visionnaire sacrifié  »
