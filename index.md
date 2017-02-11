@@ -9,7 +9,6 @@
 </div>
 
 
-
 | <FONT size="2pt"> Cabinet au :   </FONT>           | <FONT size="2pt"> Cabinet au :   </FONT>  |
 |----------------------------------------------------|-------------------|
 |15, rue de Sévigné 				             | 36, Avenue du Chemin Vert |
@@ -19,11 +18,9 @@
 
 
 
-
 ## Consultations, entretiens, soutien psychologique, psychothérapies analytiques
 
 ## Psychanalyse individuelle
-
 
 ## Adultes et adolescents
 
