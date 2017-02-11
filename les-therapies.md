@@ -7,10 +7,11 @@
  « *L'analyse a pour but l'avènement d'une parole vraie* ». Jacques Lacan, *Les Ecrits.*
 
 
-** Mettre des mots sur ce que l'on ressent en parlant avec un thérapeute permet de se sentir mieux, de vivre en étant plus heureux. 
+<B>  Mettre des mots sur ce que l'on ressent en parlant avec un thérapeute permet de se sentir mieux, de vivre en étant plus heureux. 
 La psychanalyse offre un lieu d'écoute privilégié où l'on voit naître sa « vraie parole ». Que l'on soit en présence de difficultés qui 
 se répètent dans la vie affective, familiale ou  sociale, de ruptures (amoureuses ou au travail), de traumatismes, de manque de confiance 
-en soi ou d'hyper-sensibilité, il importe de parler de  sa souffrance, de son angoisse, de son anxiété et de ce qui arrive. **
+en soi ou d'hyper-sensibilité, il importe de parler de  sa souffrance, de son angoisse, de son anxiété et de ce qui arrive. </B>
+
 Mais rencontrer un psychanalyste n'implique pas nécessairement de faire une analyse. 
 
 
