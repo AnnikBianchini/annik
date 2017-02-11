@@ -50,7 +50,7 @@ Articles, enquêtes, interviews de psychanalystes, dans la rubrique «Psy ».
 [Le sphinx et le Graal, le secret de l'énigme](http:// www.scienceshumaines.com/le-sphinx-et-le-graal-le-secret-de-l-enigme_fr_10972.html), [Temps des glaciations, voyage dans le monde de la folie](www.scienceshumaines.com/temps-des-glaciations-voyage-dans-le-monde-de-la-folie)
 
 
-### Arts, sciences, société, <I> Psychanalyse-Psychologie </I>
+### Arts, sciences, société, <FONT size="5pt"> <I> Psychanalyse-Psychologie </I> </FONT>
 
 - Actualité en France (MAEE) : 
 « [Lacan : trente ans après, une œuvre toujours vivante](http://www.ambafrance-kh.org/Lacan-trente-ans-apres-une-oeuvre),
