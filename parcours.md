@@ -14,8 +14,10 @@
 - Diplômée de Lettres et de Philosophie : Universités Paris 7 et Université Paris 3.
 
 
+
 #### Formation privée :
 Trois psychanalyses personnelles.
+
 
 
 #### Activités institutionnelles et professionnelles : 
@@ -34,9 +36,10 @@ Le langage, aussi, est le lieu privilégié de la psychanalyse et de la littéra
   - Groupe Prisma Press,  Editions Bauer, Editions Sefe-Edifa, Editions Taillandier, Editions Belin, Editions Didro, 
      Société Santé Port Royal, Le Bulletin des Communes.
   - Formation : Ecoles de journalisme : CPJ (Paris), CFD (Paris).
+  
+- Professeur de Lettres au Centre Cuturel Français de Rome (Centro di studi italo-francesi, Piazza di Campitelli, 3).
 
--  Professeur de Lettres au Centre Culturel Français de Rome (Centro di studi italo-francesi, Piazza di Campitelli, 3).
-     
+          
 
 #### <FONT color="red"> Les Liens </FONT>
 
