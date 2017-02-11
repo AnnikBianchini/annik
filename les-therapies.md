@@ -15,7 +15,7 @@ en soi ou d'hyper-sensibilité, il importe de parler de  sa souffrance, de son a
 
 
 
-### Les psychothérapies analytiques
+## Les psychothérapies analytiques
 
 La plupart des psychothérapies ont été influencées, directement ou indirectement, par la psychanalyse. Les psychothérapies analytiques 
 ont une indication plus large que la cure analytique. Elles permettent, par la parole, de réfléchir, d'élaborer, de se remettre en 
@@ -32,7 +32,7 @@ Le rythme des séances est souple. La thérapie peut durer de trois mois à quel
 
 
 
-### La psychanalyse
+## La psychanalyse
 
 La psychanalyse est une méthode thérapeutique basée sur la parole pour  soulager la souffrance psychique. Fondée par Sigmund Freud à la
 fin du XIXè siècle et au début du XXè, la psychanalyse  s'intéresse aux profondeurs du psychisme, et notamment à  l'inconscient.  
@@ -51,7 +51,7 @@ plusieurs années.
 
 
 
-### Les psychothérapies analytiques brèves 
+## Les psychothérapies analytiques brèves 
 
 Ces thérapies sont destinées à faire disparaître la souffrance du patient dans un temps relativement court. Le psychanalyste s'attache,
 dans un espace de parole partagée, à écouter et à reconnaître chacun dans ce qu'il a d'intime et de singulier afin de permettre à la
@@ -62,7 +62,7 @@ Ces thérapies, réalisées en face à face sous forme de conversations personna
 
 
 
-### Le soutien psychologique
+## Le soutien psychologique
 
 Le soutien psychologique est basé sur l'écoute et permet de rassurer le patient sur sa souffrance.  Il s'agit d'une écoute attentive
 et de conseils aux personnes qui, selon les cas, cherchent un soulagement à leurs problèmes, psychiques ou sociaux. L'accompagnement
