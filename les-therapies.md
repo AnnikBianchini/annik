@@ -4,17 +4,18 @@
 ![test](images/images.jpg )
 
 
- « *L'analyse a pour but l'avènement d'une parole vraie* ». Jacques Lacan, Les Ecrits.
+ « *L'analyse a pour but l'avènement d'une parole vraie* ». Jacques Lacan, *Les Ecrits.*
 
 
-Mettre des mots sur ce que l'on ressent en parlant avec un thérapeute permet de se sentir mieux, de vivre en étant plus heureux. 
+
+**Mettre des mots sur ce que l'on ressent en parlant avec un thérapeute permet de se sentir mieux, de vivre en étant plus heureux. 
 La psychanalyse offre un lieu d'écoute privilégié où l'on voit naître sa « vraie parole ». Que l'on soit en présence de difficultés qui 
 se répètent dans la vie affective, familiale ou  sociale, de ruptures (amoureuses ou au travail), de traumatismes, de manque de confiance 
-en soi ou d'hyper-sensibilité, il importe de parler de  sa souffrance, de son angoisse, de son anxiété et de ce qui arrive. 
+en soi ou d'hyper-sensibilité, il importe de parler de  sa souffrance, de son angoisse, de son anxiété et de ce qui arrive. **
 Mais rencontrer un psychanalyste n'implique pas nécessairement de faire une analyse. 
 
 
-#### Les psychothérapies analytiques
+### Les psychothérapies analytiques
 
 La plupart des psychothérapies ont été influencées, directement ou indirectement, par la psychanalyse. Les psychothérapies analytiques 
 ont une indication plus large que la cure analytique. Elles permettent, par la parole, de réfléchir, d'élaborer, de se remettre en 
@@ -29,7 +30,8 @@ La psychothérapie analytique a pour but la disparition de l'origine du symptôm
 Le rythme des séances est souple. La thérapie peut durer de trois mois à quelques années. 
 
 
-#### La psychanalyse
+
+### La psychanalyse
 
 La psychanalyse est une méthode thérapeutique basée sur la parole pour  soulager la souffrance psychique. Fondée par Sigmund Freud à la
 fin du XIXè siècle et au début du XXè, la psychanalyse  s'intéresse aux profondeurs du psychisme, et notamment à  l'inconscient.  
@@ -46,7 +48,8 @@ séances peuvent être plus ou moins nombreuses : de une à deux fois par semain
 plusieurs années. 
 
 
-#### Les psychothérapies analytiques brèves 
+
+### Les psychothérapies analytiques brèves 
 
 Ces thérapies sont destinées à faire disparaître la souffrance du patient dans un temps relativement court. Le psychanalyste s'attache,
 dans un espace de parole partagée, à écouter et à reconnaître chacun dans ce qu'il a d'intime et de singulier afin de permettre à la
@@ -55,7 +58,8 @@ symptômes qui le tourmentent, afin de de s'en dégager.
 Ces thérapies, réalisées en face à face sous forme de conversations personnalisées, durent de quelques séances à plusieurs mois. 
 
 
-#### Le soutien psychologique
+
+### Le soutien psychologique
 
 Le soutien psychologique est basé sur l'écoute et permet de rassurer le patient sur sa souffrance.  Il s'agit d'une écoute attentive
 et de conseils aux personnes qui, selon les cas, cherchent un soulagement à leurs problèmes, psychiques ou sociaux. L'accompagnement
