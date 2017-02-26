@@ -8,19 +8,8 @@
 </ul>
 </div>
 
-<table tableau1>
-	<tr>
-	<font size="2pt"> Cabinet au : </font>
-		<th>15, rue de Sévigné</th>
-		<td>75004 Paris</td> <FONT size="2pt">Métro Saint-Paul Le Marais </FONT>![test](images/paris-salon.jpg)
-	</tr>
-	<tr>
-		<td>36, Avenue du Chemin Vert</td> 
-		<td>95290 L'Isle-Adam</td>
-		<td><FONT size="2pt"> A 100 m de la clinique vétérinaire</FONT> </td> ![test](images/l-isle-adam.jpg )
-	</tr>
-</table>
-
+<table>
+<tr>
 
 |           | <FONT size="2pt"> Cabinet au :   </FONT>  |
 |----------------------------------------------------|-----------------|
@@ -28,7 +17,7 @@
 | 75004 Paris                                        | 95290 L'Isle-Adam|
 | <FONT size="2pt"> Métro Saint-Paul Le Marais   </FONT>     |   <FONT size="2pt"> A 100 m de la clinique vétérinaire   </FONT>  |
 |![test](images/paris-salon.jpg )                  |  ![test](images/l-isle-adam.jpg )|
-
+</tr>
 
 
 ### Consultations, entretiens, psychothérapies analytiques
