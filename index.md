@@ -8,16 +8,14 @@
 </ul>
 </div>
 
-<table>
-<tr>
 
-|           | <FONT size="2pt"> Cabinet au :   </FONT>  |
+| <FONT size="2pt"> Cabinet au :   </FONT>           | <FONT size="2pt"> Cabinet au :   </FONT>  |
 |----------------------------------------------------|-----------------|
 |15, rue de Sévigné 				     | 36, Avenue du Chemin Vert |
 | 75004 Paris                                        | 95290 L'Isle-Adam|
 | <FONT size="2pt"> Métro Saint-Paul Le Marais   </FONT>     |   <FONT size="2pt"> A 100 m de la clinique vétérinaire   </FONT>  |
 |![test](images/paris-salon.jpg )                  |  ![test](images/l-isle-adam.jpg )|
-</tr>
+
 
 
 ### Consultations, entretiens, psychothérapies analytiques
