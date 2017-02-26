@@ -7,10 +7,9 @@
 <li>Par mail : <a href="mailto:a.bianchini@wanadoo.fr">a.bianchini@wanadoo.fr</a></li>
 </ul>
 </div>
-
+<h3>Cabinet au : </h3>
 <table tableau1>
 	<tr>
-		<td><FONT size="2pt"> Cabinet au :   </FONT> </td> 
 		<td>15, rue de Sévigné</td>
 		<td>75004 Paris</td> 
 		<td><FONT size="2pt">Métro Saint-Paul Le Marais </FONT></td>
