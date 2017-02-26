@@ -7,20 +7,17 @@
 <li>Par mail : <a href="mailto:a.bianchini@wanadoo.fr">a.bianchini@wanadoo.fr</a></li>
 </ul>
 </div>
-<h3>Cabinet au : </h3>
+
 <table tableau1>
 	<tr>
-		<td>15, rue de Sévigné</td>
-		<td>75004 Paris</td> 
-		<td><FONT size="2pt">Métro Saint-Paul Le Marais </FONT></td>
-		<td>![test](images/paris-salon.jpg)</td>
+	<font size="2pt"> Cabinet au : </font>
+		<th>15, rue de Sévigné</th>
+		<td>75004 Paris</td> <FONT size="2pt">Métro Saint-Paul Le Marais </FONT>![test](images/paris-salon.jpg)
 	</tr>
-	<tr></tr>
 	<tr>
 		<td>36, Avenue du Chemin Vert</td> 
 		<td>95290 L'Isle-Adam</td>
-		<td><FONT size="2pt"> A 100 m de la clinique vétérinaire</FONT> </td> 
-		<td>![test](images/l-isle-adam.jpg )</td>
+		<td><FONT size="2pt"> A 100 m de la clinique vétérinaire</FONT> </td> ![test](images/l-isle-adam.jpg )
 	</tr>
 </table>
 
