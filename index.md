@@ -4,25 +4,25 @@
 <h3>Consultations sur rendez-vous</h3>
 <ul>
 <li>Par téléphone  au 06 83 56 85 61 et au 01 34 69 47 02</li>
-<li>Par mail: <a href="mailto:a.bianchini@wanadoo.fr">a.bianchini@wanadoo.fr</a></li>
+<li>Par mail : <a href="mailto:a.bianchini@wanadoo.fr">a.bianchini@wanadoo.fr</a></li>
 </ul>
 </div>
 
 
-| <FONT size="2pt"> Cabinet au :   </FONT>           | <FONT size="2pt"> Cabinet au :   </FONT>  |
-|----------------------------------------------------|-------------------|
-|15, rue de Sévigné 				             | 36, Avenue du Chemin Vert |
-| 75004 Paris                                      | 95290 L'Isle-Adam|
-| <FONT size="2pt"> (Métro Saint-Paul Le Marais)   </FONT>     | <FONT size="2pt"> (A 100 m de la clinique vétérinaire)   </FONT>  |
-|![test](images/paris-salon.jpg )                  |   ![test](images/l-isle-adam.jpg )|
+| <FONT size="2pt"> Cabinet au :   </FONT>           |  |<FONT size="2pt"> Cabinet au :   </FONT>  |
+|----------------------------------------------------|-|-----------------|
+|15, rue de Sévigné 				             | | 36, Avenue du Chemin Vert |
+| 75004 Paris                                      | | 95290 L'Isle-Adam|
+| <FONT size="2pt"> Métro Saint-Paul Le Marais   </FONT>     |  | <FONT size="2pt"> A 100 m de la clinique vétérinaire   </FONT>  |
+|![test](images/paris-salon.jpg )                  |  | ![test](images/l-isle-adam.jpg )|
 
 
 
-## Consultations, entretiens, soutien psychologique, psychothérapies analytiques
+### Consultations, entretiens, psychothérapies analytiques
 
-## Psychanalyse individuelle
+### Psychanalyse individuelle
 
-## Adultes et adolescents
+### Adultes et adolescents
 
 
 
@@ -34,4 +34,4 @@
 - Tarifs modérés
 - Consultations en français et en italien 
 
-Tableaux de peinture: œuvre de Zao Wou Ki
+Oeuvres de Zao Wou Ki
