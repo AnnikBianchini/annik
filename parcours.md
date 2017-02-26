@@ -7,7 +7,7 @@
 
 
 
-## Formations universitaires :
+#### Formations universitaires :
 
 - Doctorante en Psychanalyse : Université Paris 8.
 - Master 2 de Psychanalyse : Université Paris 8.
@@ -15,12 +15,12 @@
 
 
 
-## Formation privée :
+#### Formation privée :
 Trois psychanalyses personnelles.
 
 
 
-## Activités institutionnelles et professionnelles : 
+#### Activités institutionnelles et professionnelles : 
 
 - Hôpitaux :
   - Hôpital psychiatrique Paul Guiraud (Clamart).
@@ -41,7 +41,7 @@ Le langage, aussi, est le lieu privilégié de la psychanalyse et de la littéra
 
           
 
-## <FONT color="red"> Les Liens </FONT>
+### <FONT color="red"> <I> Les Liens </I> </FONT>
 
 - [Département de Psychanalyse de l'Université Paris 8](http://www.ufr-sepf.univ-paris8.fr)
 - [Cercle Freudien](http://www.cerclefreudien.org)
