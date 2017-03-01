@@ -14,7 +14,7 @@
 |15, rue de Sévigné 				     | 36, Avenue du Chemin Vert |
 | 75004 Paris                                        | 95290 L'Isle-Adam|
 | <FONT size="2pt"> Métro Saint-Paul Le Marais   </FONT>     |   <FONT size="2pt"> A 100 m de la clinique vétérinaire   </FONT>  |
-|height :250px; width : 100%; background : url(/annik/images/HommageFemme.jpg)| ![test](images/l-isle-adam.jpg )|
+|![test](images/salon-paris.jpg )| ![test](images/l-isle-adam.jpg )|
 
 
 
