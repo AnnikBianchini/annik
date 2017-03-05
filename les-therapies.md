@@ -38,8 +38,7 @@ fin du XIXè siècle et au début du XXè, la psychanalyse  s'intéresse aux pro
 Elle prend en compte  les rêves, les lapsus, les actes manqués, les répétitions de mots, les oublis, les symptômes… C'est un procédé 
 d'investigation des processus psychiques qui autrement, seraient à peine visibles. 
 Allongé sur le divan, le patient exprime spontanément à son analyste ce qui lui vient à l'esprit. C'est la règle fondamentale de
-l'association libre, qui laisse la parole de l'analysant s'exprimer dans ce qu'elle peut avoir d'imprévisible. Le transfert est  
-également  un passage obligé en psychanalyse. C'est le moteur même de la cure analytique. Il passe par  la résurgence des sentiments 
+l'association libre, qui laisse la parole de l'analysant s'exprimer dans ce qu'elle peut avoir d'imprévisible. Le transfert est également un passage obligé en psychanalyse. C'est le moteur même de la cure analytique. Il passe par  la résurgence des sentiments 
 du passé, que nous avons vécus enfants vis-à-vis d'êtres aimés ou de proches. Le transfert repose sur le savoir que l'analysant suppose 
 au psychanalyste. Les émotions et les pensées que le patient avait refoulées vont être reportées sur l'analyste. 
 Au fil du déroulement de la cure, les symptômes sont analysés et un mieux-être apparaît. La psychanalyse permet à l'analysant de se
