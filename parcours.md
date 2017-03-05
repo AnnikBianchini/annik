@@ -2,16 +2,11 @@
 #  Parcours
 
 
-![test](images/images.jpg )
-
-
-
-
 #### Formations universitaires :
 
 - Doctorante en Psychanalyse : Université Paris 8.
 - Master 2 de Psychanalyse : Université Paris 8.
-- Diplômée de Lettres et de Philosophie : Universités Paris 7 et Université Paris 3.
+- Diplômée de Lettres et de Philosophie : Université Paris 7 et Université Paris 3.
 
 
 
@@ -41,7 +36,7 @@ Le langage, aussi, est le lieu privilégié de la psychanalyse et de la littéra
 
           
 
-### <FONT color="red"> <I> Les Liens </I> </FONT>
+###  <I> Les Liens </I> 
 
 - [Département de Psychanalyse de l'Université Paris 8](http://www.ufr-sepf.univ-paris8.fr)
 - [Cercle Freudien](http://www.cerclefreudien.org)
