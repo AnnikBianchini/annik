@@ -9,12 +9,12 @@
 </div>
 
 
-| <FONT size="2pt"> Cabinet au :   </FONT>           |  &nbsp; &nbsp; | <FONT size="2pt"> Cabinet au :   </FONT>  |
+| <span style="font-size:small">Cabinet au :</span>|  &nbsp; &nbsp; |<span style="font-size:small">Cabinet au :</span>|
 |----------------------------------------------------|--|-----------------|
-|15, rue de Sévigné 				     |  | 36, Avenue du Chemin Vert |
-|75004 Paris                                         |  | 95290 L'Isle-Adam|
-| <FONT size="2pt"> Métro Saint-Paul Le Marais   </FONT> |  |   <FONT size="2pt"> A 100 m de la clinique vétérinaire   </FONT>  |
-|![test](images/paris-salon-169.jpg)|  | ![test](images/l-isle-adam.jpg )|
+|15, rue de Sévigné 				     |  nbsp; &nbsp; | 36, Avenue du Chemin Vert |
+|75004 Paris                                         |  nbsp; &nbsp; | 95290 L'Isle-Adam|
+|<span style="font-size:small">Métro Saint-Paul Le Marais</span> |  nbsp; &nbsp; |<span style="font-size:small">A 100 m de la clinique vétérinaire</span>|
+|![test](images/paris-salon-169.jpg)|  nbsp; &nbsp; | ![test](images/l-isle-adam.jpg )|
 
 
 
