@@ -18,17 +18,17 @@
 
 
 
-### Consultations, entretiens, psychothérapies analytiques
+#### Consultations, entretiens, psychothérapies analytiques
 
-### Psychanalyse individuelle
+#### Psychanalyse individuelle
 
-### Adultes et adolescents
+#### Adultes et adolescents
 
 
 
 
 |---------------------------------------------------------------------|---------------------------------------------------|
-| Ma pratique s'inscrit dans la continuité de la clinique psychanalytique telle qu'elle a été initialement définie par Sigmund Freud, réinterprétée par Jacques Lacan, puis développée jusqu'à aujourd'hui.|  ![test](images/annik.jpg )|
+| Ma pratique s'inscrit dans la continuité de la clinique psychanalytique telle qu'elle a été initialement définie par Sigmund Freud, réinterprétée par Jacques Lacan, puis développée jusqu'à aujourd'hui.|  ![test](images/annik.jpg) |
 
 	
 - Membre du Cercle Freudien, membre du Salon Œdipe
