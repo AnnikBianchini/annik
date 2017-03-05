@@ -17,6 +17,8 @@
 |![test](images/paris-salon-169.jpg)               |  &nbsp; |&nbsp; |&nbsp; |&nbsp; |&nbsp; | ![test](images/l-isle-adam.jpg )                |
 
 
+<br/>
+
 
 ### Consultations, entretiens, psychothérapies analytiques
 
@@ -25,6 +27,7 @@
 ### Adultes et adolescents
 
 
+<br/>
 
 
 |---------------------------------------------------------------------|---------------------------------------------------|
@@ -35,6 +38,7 @@
 - Membre du Cercle Freudien, membre du Salon Œdipe
 - Tarifs modérés
 - Consultations en français et en italien 
+
 <br/>
 
 Oeuvre de Zao Wou Ki
