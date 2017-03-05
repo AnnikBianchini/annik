@@ -8,12 +8,12 @@
 - Master 2 de Psychanalyse : Université Paris 8.
 - Diplômée de Lettres et de Philosophie : Université Paris 7 et Université Paris 3.
 
-
+<br/>
 
 #### Formation privée :
 Trois psychanalyses personnelles.
 
-
+<br/>
 
 #### Activités institutionnelles et professionnelles : 
 
@@ -35,6 +35,7 @@ Le langage, aussi, est le lieu privilégié de la psychanalyse et de la littéra
 - Professeur de Lettres au Centre Cuturel Français de Rome (Centro di studi italo-francesi, Piazza di Campitelli, 3).
 
           
+<br/>
 
 ###  <I> Les Liens </I> 
 
