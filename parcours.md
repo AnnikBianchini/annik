@@ -8,12 +8,12 @@
 - Master 2 de Psychanalyse : Université Paris 8.
 - Diplômée de Lettres et de Philosophie : Université Paris 7 et Université Paris 3.
 
-<br/>
+
 
 #### Formation privée :
 Trois psychanalyses personnelles.
 
-<br/>
+
 
 #### Activités institutionnelles et professionnelles : 
 
