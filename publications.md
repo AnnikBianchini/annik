@@ -22,7 +22,6 @@
 
 
 ### Presse
-
 #### <FONT color="black"> <I> Psychanalyse-Psychologie </I> </FONT>
 
 Articles, enquêtes, interviews de psychanalystes, dans la rubrique «Psy ». 
