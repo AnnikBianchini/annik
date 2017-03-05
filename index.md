@@ -17,7 +17,7 @@
 |![test](images/paris-salon-169.jpg)               |  &nbsp; |&nbsp; |&nbsp; |&nbsp; |&nbsp; | ![test](images/l-isle-adam.jpg )                |
 
 
-<br/>
+
 
 
 ### Consultations, entretiens, psychothérapies analytiques
@@ -27,7 +27,7 @@
 ### Adultes et adolescents
 
 
-<br/>
+
 
 
 |---------------------------------------------------------------------|---------------------------------------------------|
@@ -40,5 +40,9 @@
 - Consultations en français et en italien 
 
 <br/>
+
+<br/>
+
+
 
 Oeuvre de Zao Wou Ki
