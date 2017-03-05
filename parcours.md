@@ -9,10 +9,8 @@
 - Diplômée de Lettres et de Philosophie : Université Paris 7 et Université Paris 3.
 
 
-
 #### Formation privée :
 Trois psychanalyses personnelles.
-
 
 
 #### Activités institutionnelles et professionnelles : 
