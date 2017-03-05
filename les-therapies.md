@@ -14,9 +14,9 @@ en soi ou d'hyper-sensibilité, il importe de parler de  sa souffrance, de son a
 
 
 
-## Les psychothérapies analytiques
+### Les psychothérapies analytiques
 
-La plupart des psychothérapies ont été influencées, directement ou indirectement, par la psychanalyse. Les psychothérapies analytiques 
+<p> La plupart des psychothérapies ont été influencées, directement ou indirectement, par la psychanalyse. Les psychothérapies analytiques 
 ont une indication plus large que la cure analytique. Elles permettent, par la parole, de réfléchir, d'élaborer, de se remettre en 
 question, dans un échange avec le thérapeute.
 Comme pour la cure analytique, le patient est invité à parler de ce qui lui importe, puis à associer librement ce qui lui passe par la 
@@ -26,14 +26,14 @@ Cependant, malgré des bases théoriques similaires, les psychothérapies analyt
 à commencer par l'entretien verbal, qui se déroule en  face-à-face. Par ailleurs, ces thérapies privilégient la communication, 
 la discussion interactive entre le patient et le thérapeute.
 La psychothérapie analytique a pour but la disparition de l'origine du symptôme, une fois que les causes ont été reconnues, identifiées, comprises. Ainsi, la situation peut être transformée et la vie changée.  Elle se  termine quand le patient a acquis une bonne maîtrise de lui-même et apprend à gérer ses conflits intérieurs. 
-Le rythme des séances est souple. La thérapie peut durer de trois mois à quelques années. 
+Le rythme des séances est souple. La thérapie peut durer de trois mois à quelques années. </p>
 
 
 
 
-## La psychanalyse
+### La psychanalyse
 
-La psychanalyse est une méthode thérapeutique basée sur la parole pour  soulager la souffrance psychique. Fondée par Sigmund Freud à la
+<p> La psychanalyse est une méthode thérapeutique basée sur la parole pour  soulager la souffrance psychique. Fondée par Sigmund Freud à la
 fin du XIXè siècle et au début du XXè, la psychanalyse  s'intéresse aux profondeurs du psychisme, et notamment à  l'inconscient.  
 Elle prend en compte  les rêves, les lapsus, les actes manqués, les répétitions de mots, les oublis, les symptômes… C'est un procédé 
 d'investigation des processus psychiques qui autrement, seraient à peine visibles. 
@@ -44,12 +44,12 @@ au psychanalyste. Les émotions et les pensées que le patient avait refoulées 
 Au fil du déroulement de la cure, les symptômes sont analysés et un mieux-être apparaît. La psychanalyse permet à l'analysant de se
 connaître, de se réconcilier avec lui-même, et de vivre plus en accord avec ses désirs.  En fonction de la situation de chacun, les 
 séances peuvent être plus ou moins nombreuses : de une à deux fois par semaine.  Une cure analytique peut durer de plusieurs mois à 
-plusieurs années. 
+plusieurs années. </p>
 
 
 
 
-## Les psychothérapies analytiques brèves 
+### Les psychothérapies analytiques brèves 
 
 Ces thérapies sont destinées à faire disparaître la souffrance du patient dans un temps relativement court. Le psychanalyste s'attache,
 dans un espace de parole partagée, à écouter et à reconnaître chacun dans ce qu'il a d'intime et de singulier afin de permettre à la
@@ -60,7 +60,7 @@ Ces thérapies, réalisées en face à face sous forme de conversations personna
 
 
 
-## Le soutien psychologique
+### Le soutien psychologique
 
 Le soutien psychologique est basé sur l'écoute et permet de rassurer le patient sur sa souffrance.  Il s'agit d'une écoute attentive
 et de conseils aux personnes qui, selon les cas, cherchent un soulagement à leurs problèmes, psychiques ou sociaux. L'accompagnement
