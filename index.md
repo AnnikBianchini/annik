@@ -9,12 +9,12 @@
 </div>
 
 
-| <span style="font-size:small">Cabinet au :</span>|  &nbsp; |&nbsp; |&nbsp; |<span style="font-size:small">Cabinet au :</span>|
-|--------------------------------------------------|---------|---------|---------|-------------------------------------------------|
-|15, rue de Sévigné 				   |  &nbsp; |  &nbsp; | &nbsp; | 36, Avenue du Chemin Vert                       |
-|75004 Paris                                       |  &nbsp; |  &nbsp; | &nbsp; | 95290 L'Isle-Adam                               |
-|<span style="font-size:small">Métro Saint-Paul Le Marais</span>|  &nbsp; | &nbsp; | &nbsp; |<span style="font-size:small">A 100 m de la clinique vétérinaire</span>|
-|![test](images/paris-salon-169.jpg)               |  &nbsp; |&nbsp; |&nbsp; | ![test](images/l-isle-adam.jpg )                |
+| <span style="font-size:small">Cabinet au :</span>|  &nbsp; |&nbsp; |&nbsp; |&nbsp; |&nbsp; |<span style="font-size:small">Cabinet au :</span>|
+|--------------------------------------------------|---------|---------|---------|---------|---------|-------------------------------------------------|
+|15, rue de Sévigné 				   |  &nbsp; |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | 36, Avenue du Chemin Vert                       |
+|75004 Paris                                       |  &nbsp; |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | 95290 L'Isle-Adam                               |
+|<span style="font-size:small">Métro Saint-Paul Le Marais</span>|  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |<span style="font-size:small">A 100 m de la clinique vétérinaire</span>|
+|![test](images/paris-salon-169.jpg)               |  &nbsp; |&nbsp; |&nbsp; |&nbsp; |&nbsp; | ![test](images/l-isle-adam.jpg )                |
 
 
 
