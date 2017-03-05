@@ -11,7 +11,7 @@ La psychanalyse offre un lieu d'écoute privilégié où l'on voit naître sa «
 se répètent dans la vie affective, familiale ou  sociale, de ruptures (amoureuses ou au travail), de traumatismes, de manque de confiance 
 en soi ou d'hyper-sensibilité, il importe de parler de  sa souffrance, de son angoisse, de son anxiété et de ce qui arrive. Mais rencontrer un psychanalyste n'implique pas nécessairement de faire une analyse. 
 
-
+<br/>
 
 
 ### Les psychothérapies analytiques
@@ -29,7 +29,7 @@ La psychothérapie analytique a pour but la disparition de l'origine du symptôm
 Le rythme des séances est souple. La thérapie peut durer de trois mois à quelques années. </p>
 
 
-
+<br/>
 
 ### La psychanalyse
 
@@ -46,24 +46,24 @@ connaître, de se réconcilier avec lui-même, et de vivre plus en accord avec s
 séances peuvent être plus ou moins nombreuses : de une à deux fois par semaine.  Une cure analytique peut durer de plusieurs mois à 
 plusieurs années. </p>
 
-
+<br/>
 
 
 ### Les psychothérapies analytiques brèves 
 
-Ces thérapies sont destinées à faire disparaître la souffrance du patient dans un temps relativement court. Le psychanalyste s'attache,
+<p> Ces thérapies sont destinées à faire disparaître la souffrance du patient dans un temps relativement court. Le psychanalyste s'attache,
 dans un espace de parole partagée, à écouter et à reconnaître chacun dans ce qu'il a d'intime et de singulier afin de permettre à la
 parole de produire des effets. Le but de ces thérapies est que le patient puisse envisager comment il est partie prenante dans les 
 symptômes qui le tourmentent, afin de de s'en dégager.
-Ces thérapies, réalisées en face à face sous forme de conversations personnalisées, durent de quelques séances à plusieurs mois. 
+Ces thérapies, réalisées en face à face sous forme de conversations personnalisées, durent de quelques séances à plusieurs mois. </p>
 
-
+<br/>
 
 
 ### Le soutien psychologique
 
-Le soutien psychologique est basé sur l'écoute et permet de rassurer le patient sur sa souffrance.  Il s'agit d'une écoute attentive
+<p>Le soutien psychologique est basé sur l'écoute et permet de rassurer le patient sur sa souffrance.  Il s'agit d'une écoute attentive
 et de conseils aux personnes qui, selon les cas, cherchent un soulagement à leurs problèmes, psychiques ou sociaux. L'accompagnement
 se fait sous forme d'entretiens et de suivis personnalisés. Un cheminement psychothérapeutique peut être proposé afin de permettre un 
-changement des processus psychiques. 
+changement des processus psychiques. </p>
 
