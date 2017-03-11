@@ -1,4 +1,4 @@
-# Publications 
+## Publications 
 
 
  « *Dans le langage, notre message nous vient de l'Autre, sous une forme inversée* ». Jacques Lacan, *Les Ecrits.*
