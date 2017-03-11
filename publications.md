@@ -39,7 +39,7 @@ Articles, enquêtes, interviews de psychanalystes, dans la rubrique «Psy ».
   * « Couple, les jeux du pouvoir », « L'argent dans le  couple »
   * « Mère-fille, un duo turbulent », « Aimer jusqu'au bout de la vie »
   * « Les drogués du jeu ou de l'alcool »,  « La tentation de l'infidélité »   
-  <br/>;
+  <br />
   
 - Sciences Humaines :   
   * «[Pourquoi la psychanalyse ?](https://www.scienceshumaines.com/pourquoi-la-psychanalyse_fr_116.html)», «[Littérature et psychanalyse](https://www.scienceshumaines.com/litterature-et-psychanalyse_fr_10664.html)»
