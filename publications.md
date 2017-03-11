@@ -63,7 +63,7 @@ Articles, enquêtes, interviews de psychanalystes, dans la rubrique «Psy ».
 « Le clan des Borgia », « Ivan le Terrible », « Attila, le fléau de Dieu », « Charlemagne, père de l'Europe », « La Dolce Vita dans la Rome antique », « Ulysse, le héros aux mille tours », « La femme étrusque, première féministe », « Au commencement était Montmartre »
 
 - Miroir de l'histoire : 
-« Annibal comme Hitler », « Quand les inquisiteurs torturaient les sorcières »
+« Annibal, le héros tourmenté », « Quand les inquisiteurs torturaient les sorcières »
 
 
 
