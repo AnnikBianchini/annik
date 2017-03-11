@@ -39,7 +39,6 @@ Articles, enquêtes, interviews de psychanalystes, dans la rubrique «Psy ».
   * « Couple, les jeux du pouvoir », « L'argent dans le  couple »
   * « Mère-fille, un duo turbulent », « Aimer jusqu'au bout de la vie »
   * « Les drogués du jeu ou de l'alcool »,  « La tentation de l'infidélité »
-  
   <br/>
 - Sciences Humaines :   
   * « [Main basse sur les vivants](http://www.scienceshumaines.com/main-basse-sur-les-vivants_fr_315.html)», 
