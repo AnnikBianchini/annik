@@ -14,7 +14,7 @@
 - Œdipe à Alcala
 « L'invention de Don Quichotte : une figure de l'emprise de l'imaginaire », in Le désir du psychanalyste à l'épreuve de Don Quichotte, Editions des Crépuscules, Paris, 2012 : livre collectif.
 
-- Auteur de la rubrique « Le Cabinet de Lecture »  sur le site [œdipelesalon.com](http://www.oedipelesalon.com/cabinet). Textes et commentaires de livres de psychanalyse, écrits par des psychanalystes.
+- Auteur de la rubrique « Le Cabinet de Lecture »  sur le site [œdipelesalon.com](http://www.oedipelesalon.com/cabinet/d_arpin_1216.html). Textes et commentaires de livres de psychanalyse, écrits par des psychanalystes.
 
 - Publications  in  Che Vuoi ? , revue de psychanalyse, Le Cercle Freudien : « De l'amour et de  la haine », Nouvelle série, N°1,  2016, « Le nouvel amour »…, Lectures : « Dérives adolescentes : de la délinquance au djihadisme », « Les revenants de la mémoire »…, Revue Psychologie clinique, Lectures :  « Les toiles des rêves, Arts, mythes et inconscient »…
 
