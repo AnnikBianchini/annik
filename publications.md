@@ -51,9 +51,9 @@ Articles, enquêtes, interviews de psychanalystes, dans la rubrique «Psy ».
 - Actualité en France (MAEE) : 
 « [Lacan : trente ans après, une œuvre toujours vivante](http://www.ambafrance-kh.org/Lacan-trente-ans-apres-une-oeuvre)»,   «[Voyage à bord du mythique Orient-Express](http://www.france-taipei.org/Voyage-a-bord-du-mythique-Orient)»,   «[La France au cœur de la mission spatiale Rosetta, un défi technologique unique](http://www.ambafrance-cr.org/La-France-au-coeur-de-la-mission)»,   «[Le projet du Grand Paris inspire celui du Grand Moscou](http://www.ambafrance-kr.org/Actualite-en-France,1856)»,  
 «[Pont culturel entre les deux rives de la Méditerranée, le MuCEM ouvre ses portes](http://www.ambafrance-kr.org/Actualite-en-France,2121)»,   «[Marseille-Provence 2013, capitale européenne de la culture](http://www.ambafrance-pl.org/Marseille-Provence-2013-capitale)»,
-«[Secrètes ou insolites, les plus belles balades au cœur de Paris](http:// www.ambafrance-il.org/Secretes-ou-insolites-les-plus)»,  
-«[La France excelle dans la chirurgie sans ouvrir](http:// www.ambafrance-km.org/La-France-excelle-dans-la-chirurgie-sans-ouvrir)»,  
-«[Les mathématiques françaises brillent par leur niveau d'excellence](http:// www.ambafrance-nl.org/Les-mathematiques-francaises)»
+«[Secrètes ou insolites, les plus belles balades au cœur de Paris](http://www.ambafrance-nl.org/Secretes-ou-insolites-les-plus)»,  
+«[La France excelle dans la chirurgie sans ouvrir](http://www.ambafrance-am.org/La-France-excelle-dans-la-chirurgie-sans-ouvrir)»,  
+«[Les mathématiques françaises brillent par leur niveau d'excellence](http://www.ambafrance-nl.org/Les-mathematiques-francaises)»
 
 
 #### <FONT color="black"> <I> Histoire </I> </FONT>
