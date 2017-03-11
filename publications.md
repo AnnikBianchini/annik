@@ -5,7 +5,6 @@
 
 
 ### Edition
-
 - Œdipe à Cadix
 « La quête de la Chose ou les profondeurs du désir », in Moby Dick ou le désir dont il s'agit ,  Editions des Crépuscules, Paris, 2015 : livre collectif.
 
@@ -23,7 +22,6 @@
 
 ### Presse
 #### <FONT color="black"> <I> Psychanalyse-Psychologie </I> </FONT>
-
 Articles, enquêtes, interviews de psychanalystes, dans la rubrique «Psy ». 
  
 - Femme Actuelle :  
