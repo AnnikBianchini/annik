@@ -39,7 +39,8 @@ Articles, enquêtes, interviews de psychanalystes, dans la rubrique «Psy ».
   * « Couple, les jeux du pouvoir », « L'argent dans le  couple »
   * « Mère-fille, un duo turbulent », « Aimer jusqu'au bout de la vie »
   * « Les drogués du jeu ou de l'alcool »,  « La tentation de l'infidélité »
-  <br/>
+  <br />
+  
 - Sciences Humaines :   
   * « [Main basse sur les vivants](http://www.scienceshumaines.com/main-basse-sur-les-vivants_fr_315.html)», 
 « [Le maître des insensés](http://www.scienceshumaines.com/le-maitre-des-insenses_fr_10208.html)», «[Littérature et psychanalyse](https://www.scienceshumaines.com/litterature-et-psychanalyse_fr_10664.html)», « [Qu'est-ce que l'hystérie ?](https://www.scienceshumaines.com/qu-est-ce-que-l-hysterie_fr_26714.html)», «[Pourquoi la psychanalyse ?](https://www.scienceshumaines.com/pourquoi-la-psychanalyse_fr_116.html)», 
