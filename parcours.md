@@ -19,7 +19,6 @@ Trois psychanalyses personnelles.
   - Hôpital psychiatrique Paul Guiraud (Clamart).
   - Hôpital psychiatrique Paul Guiraud (Villejuif).
   - Hôpital de Jour Gombault Darnaud pour adolescents (rue Bayen, 75017, Paris).
-  
 <br/>
 - Interventions à des colloques, en France et à l'étranger. 
 Participation à des groupes  de recherche au  département de Psychanalyse de l'Université Paris 8, ainsi qu'à des séminaires, des activités et des travaux au sein, notamment, de l'association Le Cercle Freudien et de l'association Œdipe le Salon.
