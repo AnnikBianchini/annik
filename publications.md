@@ -29,16 +29,19 @@ Articles, enquêtes, interviews de psychanalystes, dans la rubrique «Psy ».
 « S'aimer… quand tout vous oppose ! »
 
 - Alternative Santé : 
-«  Démotivés ? Retrouver le goût de travailler », « Se libérer du TOC », « Lutter contre la violence à l'école », « Les allergiques, victimes de la modernité »
+«  Démotivés ? Retrouver le goût de travailler », « Se libérer du Trouble Obsessionnel Compulsif», « Lutter contre la violence à l'école », « Les allergiques, victimes de la modernité »
 
 - Tribune-Santé : 
 « A chacun son intelligence », « Echec scolaire : agir et réagir »
 
 - Réponses-Santé : 
-« Le mensonge, un mal nécessaire ? », « Dans les tourments de la jalousie », « Mère-fille, un duo turbulent », « Les drogués du jeu ou de l'alcool »,  « La tentation de l'infidélité », « Couple, les jeux du pouvoir », « L'argent dans le  couple », « Aimer jusqu'au bout de la vie »
+  * « Le mensonge, un mal nécessaire ? », « Dans les tourments de la jalousie »
+  * « Couple, les jeux du pouvoir », « L'argent dans le  couple »
+  * « Mère-fille, un duo turbulent », « Aimer jusqu'au bout de la vie »
+  * « Les drogués du jeu ou de l'alcool »,  « La tentation de l'infidélité »
 
 - Sciences Humaines :   
-« [Main basse sur les vivants](http://www.scienceshumaines.com/main-basse-sur-les-vivants_fr_315.html)», 
+  * « [Main basse sur les vivants](http://www.scienceshumaines.com/main-basse-sur-les-vivants_fr_315.html)», 
 « [Le maître des insensés](http://www.scienceshumaines.com/le-maitre-des-insenses_fr_10208.html)», «[Littérature et psychanalyse](https://www.scienceshumaines.com/litterature-et-psychanalyse_fr_10664.html)», « [Qu'est-ce que l'hystérie ?](https://www.scienceshumaines.com/qu-est-ce-que-l-hysterie_fr_26714.html)», «[Pourquoi la psychanalyse ?](https://www.scienceshumaines.com/pourquoi-la-psychanalyse_fr_116.html)», 
 «[A la recherche de l'avenir, un défi pour la psychanalyse et la psychothérapie](https://www.scienceshumaines.com/a-la-recherche-de-l-avenir-un-defi-pour-la-psychanalyse-et-la-psychotherapie_fr_201.html )», «[Le livre de Pierre](https://www.scienceshumaines.com/le-livre-de-pierre_fr_10824.html)», «[L'énigme de la manie](https://www.scienceshumaines.com/l-enigme-de-la-manie_fr_26713.html)»,
 «[Le sphinx et le Graal, le secret de l'énigme](https://www.scienceshumaines.com/le-sphinx-et-le-graal-le-secret-de-l-enigme_fr_10972.html)», «[Temps des glaciations, voyage dans le monde de la folie](https://www.scienceshumaines.com/temps-des-glaciations-voyage-dans-le-monde-de-la-folie_fr_540.html)»
