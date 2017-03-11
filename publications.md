@@ -42,6 +42,7 @@ Articles, enquêtes, interviews de psychanalystes, dans la rubrique «Psy ».
   
   
 <br />
+###
 - Sciences Humaines :   
   * «[Pourquoi la psychanalyse ?](https://www.scienceshumaines.com/pourquoi-la-psychanalyse_fr_116.html)», «[Littérature et psychanalyse](https://www.scienceshumaines.com/litterature-et-psychanalyse_fr_10664.html)»
   * «[A la recherche de l'avenir, un défi pour la psychanalyse et la psychothérapie](https://www.scienceshumaines.com/a-la-recherche-de-l-avenir-un-defi-pour-la-psychanalyse-et-la-psychotherapie_fr_201.html )»
