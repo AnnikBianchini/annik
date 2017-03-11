@@ -3,7 +3,6 @@
  « *Dans le langage, notre message nous vient de l'Autre, sous une forme inversée* ». Jacques Lacan, *Les Ecrits.*
  
 <br/>
-
 ### Edition
 - Œdipe à Cadix
 « La quête de la Chose ou les profondeurs du désir », in Moby Dick ou le désir dont il s'agit ,  Editions des Crépuscules, Paris, 2015 : livre collectif.
