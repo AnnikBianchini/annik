@@ -54,8 +54,8 @@ Articles, enquêtes, interviews de psychanalystes, dans la rubrique «Psy ».
 
 - Actualité en France (MAEE) : 
   * « [Lacan : trente ans après, une œuvre toujours vivante](http://www.ambafrance-kh.org/Lacan-trente-ans-apres-une-oeuvre)»
-  * «[Pont culturel entre les deux rives de la Méditerranée, le MuCEM ouvre ses portes](http://www.ambafrance-kr.org/Actualite-en-France,2121)», «[Marseille-Provence 2013, capitale européenne de la culture](http://www.ambafrance-pl.org/Marseille-Provence-2013-capitale)»
-  * «[Le projet du Grand Paris inspire celui du Grand Moscou](http://www.ambafrance-kr.org/Actualite-en-France,1856)», «[Voyage à bord du mythique Orient-Express](http://www.france-taipei.org/Voyage-a-bord-du-mythique-Orient)», «[Secrètes ou insolites, les plus belles balades au cœur de Paris](http://www.ambafrance-nl.org/Secretes-ou-insolites-les-plus)»
+  * «[A l'avant-garde mondiale, l'Observatoire de Paris]( http://www.ambafrance-tr.org/A-l-avant-garde-mondiale-l)», «[Marseille-Provence 2013, capitale européenne de la culture](http://www.ambafrance-pl.org/Marseille-Provence-2013-capitale)»
+  * «[Salon du livre : une vitalité remarquable](http://www.ambafrance-jp.org/Salon-du-Livre-une-vitalite)», «[Voyage à bord du mythique Orient-Express](http://www.france-taipei.org/Voyage-a-bord-du-mythique-Orient)», «[Secrètes ou insolites, les plus belles balades au cœur de Paris](http://www.ambafrance-nl.org/Secretes-ou-insolites-les-plus)»
   * «[La France au cœur de la mission spatiale Rosetta, un défi technologique unique](http://www.ambafrance-cr.org/La-France-au-coeur-de-la-mission)», «[La France excelle dans la chirurgie sans ouvrir](http://www.ambafrance-am.org/La-France-excelle-dans-la-chirurgie-sans-ouvrir)», «[Les mathématiques françaises brillent par leur niveau d'excellence](http://www.ambafrance-nl.org/Les-mathematiques-francaises)»
   
   
