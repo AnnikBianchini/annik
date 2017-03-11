@@ -1,9 +1,7 @@
 ## Publications 
 
-
  « *Dans le langage, notre message nous vient de l'Autre, sous une forme inversée* ». Jacques Lacan, *Les Ecrits.*
 
-<br/>
 
 ### Edition
 
@@ -20,7 +18,6 @@
 
 - Publications  in  Che Vuoi ? , revue de psychanalyse, Le Cercle Freudien : « De l'amour et de  la haine », Nouvelle série, N°1,  2016, « Le nouvel amour »…, Lectures : « Dérives adolescentes : de la délinquance au djihadisme », « Les revenants de la mémoire »…, Revue Psychologie clinique, Lectures :  « Les toiles des rêves, Arts, mythes et inconscient »…
 
-<br/>
 
 ### Presse
 #### <FONT color="black"> <I> Psychanalyse-Psychologie </I> </FONT>
