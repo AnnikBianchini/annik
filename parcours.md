@@ -20,6 +20,7 @@ Trois psychanalyses personnelles.
   * Hôpital psychiatrique Paul Guiraud (Villejuif).
   * Hôpital de Jour Gombault Darnaud pour adolescents (rue Bayen, 75017, Paris).
   <br>
+  <br>
 
 - Interventions à des colloques, en France et à l'étranger. 
 Participation à des groupes  de recherche au  département de Psychanalyse de l'Université Paris 8, ainsi qu'à des séminaires, des activités et des travaux au sein, notamment, de l'association Le Cercle Freudien et de l'association Œdipe le Salon.
@@ -30,6 +31,7 @@ Le langage, aussi, est le lieu privilégié de la psychanalyse et de la littéra
   - Groupe Prisma Press,  Editions Bauer, Editions Sefe-Edifa, Editions Taillandier, Editions Belin, Editions Didro, 
      Société Santé Port Royal, Le Bulletin des Communes.
   - Formation : Ecoles de journalisme : CPJ (Paris), CFD (Paris).
+  <br>
   <br>
 
 - Professeur de Lettres au Centre Cuturel Français de Rome (Centro di studi italo-francesi, Piazza di Campitelli, 3).
