@@ -35,7 +35,7 @@
       <td>   </td>
       <td>   </td>
       <td>   </td>
-      <td>   </td>
+ 
 
       <td><img src="images/annik1.jpg" alt="test" width="180px" height="250px"></td>
     </tr>
