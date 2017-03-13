@@ -32,7 +32,7 @@
   <tbody>
     <tr>
       <td>Ma pratique s’inscrit dans la continuité de la clinique psychanalytique telle qu’elle a été initialement définie par Sigmund Freud, réinterprétée par Jacques Lacan, puis développée jusqu’à aujourd’hui.</td>
-      <td><img src="images/annik1.jpg" alt="test" width="180px" height="250px" align="right"></td>
+      <td><img src="images/annik1.jpg" alt="test" width="190px" height="260px" align="right"></td>
     </tr>
   </tbody>
 </table>
