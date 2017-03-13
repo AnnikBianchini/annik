@@ -26,8 +26,8 @@
   * « [Qu'est-ce que l'hystérie ?](https://www.scienceshumaines.com/qu-est-ce-que-l-hysterie_fr_26714.html)», «[L'énigme de la manie](https://www.scienceshumaines.com/l-enigme-de-la-manie_fr_26713.html)», «[Le livre de Pierre](https://www.scienceshumaines.com/le-livre-de-pierre_fr_10824.html)»
   * « [Main basse sur les vivants](http://www.scienceshumaines.com/main-basse-sur-les-vivants_fr_315.html)», 
 « [Le maître des insensés](http://www.scienceshumaines.com/le-maitre-des-insenses_fr_10208.html)»
-  * «[Le sphinx et le Graal, le secret de l'énigme](https://www.scienceshumaines.com/le-sphinx-et-le-graal-le-secret-de-l-enigme_fr_10972.html)», «[Temps des glaciations, voyage dans le monde de la folie](https://www.scienceshumaines.com/temps-des-glaciations-voyage-dans-le-monde-de-la-folie_fr_540.html)»
-<br>
+  * «[Le sphinx et le Graal, le secret de l'énigme](https://www.scienceshumaines.com/le-sphinx-et-le-graal-le-secret-de-l-enigme_fr_10972.html)», «[Temps des glaciations, voyage dans le monde de la folie](https://www.scienceshumaines.com/temps-des-glaciations-voyage-dans-le-monde-de-la-folie_fr_540.html)»<br>
+
 
 
 - Alternative Santé : 
