@@ -27,8 +27,8 @@
   * « [Main basse sur les vivants](http://www.scienceshumaines.com/main-basse-sur-les-vivants_fr_315.html)», 
 « [Le maître des insensés](http://www.scienceshumaines.com/le-maitre-des-insenses_fr_10208.html)»
   * «[Le sphinx et le Graal, le secret de l'énigme](https://www.scienceshumaines.com/le-sphinx-et-le-graal-le-secret-de-l-enigme_fr_10972.html)», «[Temps des glaciations, voyage dans le monde de la folie](https://www.scienceshumaines.com/temps-des-glaciations-voyage-dans-le-monde-de-la-folie_fr_540.html)»
+<br>
 
-  <br>
 - Alternative Santé : 
 «  Démotivés ? Retrouver le goût de travailler », « Se libérer du Trouble Obsessionnel Compulsif», « Lutter contre la violence à l'école », « Les allergiques, victimes de la modernité »
 
@@ -40,6 +40,7 @@
   * « Couple, les jeux du pouvoir », « L'argent dans le  couple »
   * « Mère-fille, un duo turbulent », « Aimer jusqu'au bout de la vie »
   * « Les drogués du jeu ou de l'alcool »,  « La tentation de l'infidélité »   
+  <br>
 
 - Femme Actuelle :  
 « Secret de famille : ce qu'apporte la révélation », « Amour et rapports de force, on gère comment ? » , « Dis-moi comment tu passes à table… »
