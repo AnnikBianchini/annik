@@ -1,3 +1,9 @@
+---
+layout: page
+title: Annik Bianchini Depeint, Psychanalyste
+tagline: Psychothérapies analytiques à Paris 4è et à l'Isle-Adam 
+description: Psychothérapies analytiques à Paris 4è et à l'Isle-Adam 
+---
 « *On finit toujours par devenir un personnage de sa propre histoire. La psychanalyse permet seulement d'accélérer ce processus* ». Jacques Lacan, *Les Ecrits*.
 
 <div id='rdv'>
