@@ -19,7 +19,7 @@ collectif
 
 - Auteur de la rubrique « Le Cabinet de Lecture »  sur le site [œdipelesalon.com](http://www.oedipelesalon.com/cabinet/d_arpin_1216.html). Textes et commentaires de livres de psychanalyse, écrits par des psychanalystes.
 
-- Publications  in  Che Vuoi ? , revue de psychanalyse, Le Cercle Freudien : : « Aux limites du réel, de la jouissance et du poétique », Nouvelle série, n° 4, 2020, « Prendre le large ». « De l’amour et de la haine », Nouvelle série, N°1, 2016, « Le nouvel amour ». « Par-delà le désir et le rêve », 2018, « Séjourner dans le mythique », « Divinités ». Lectures : « Dérives adolescentes : de la délinquance au djihadisme », 2017 ; « Les revenants de la mémoire. Freud et Shakespeare », 2011.
+- Publications  in  Che Vuoi ? , revue de psychanalyse, Le Cercle Freudien : « Aux limites du réel, de la jouissance et du poétique », Nouvelle série, n° 4, 2020, « Prendre le large ». « De l’amour et de la haine », Nouvelle série, N°1, 2016, « Le nouvel amour ». « Par-delà le désir et le rêve », 2018, « Séjourner dans le mythique », « Divinités ». Lectures : « Dérives adolescentes : de la délinquance au djihadisme », 2017 ; « Les revenants de la mémoire. Freud et Shakespeare », 2011.
 Revue Psychologie clinique, Lectures : « Variations de l'humeur, L'affect dans la clinique
 contemporaine », 2019 ; « Ecrire le cas », 2017 ; « Les toiles des rêves, Arts, mythes et
 inconscient », 2010.
