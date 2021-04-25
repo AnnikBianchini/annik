@@ -4,7 +4,7 @@
 
 #### Formations universitaires :
 
-- Doctorante en Psychanalyse : Université Paris 8.
+- Docteure en Psychanalyse : Université Paris 8.
 - Master 2 de Psychanalyse : Université Paris 8.
 - Diplômée de Lettres et de Philosophie : Université Paris 7 et Université Paris 3.
 
