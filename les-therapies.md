@@ -47,7 +47,9 @@ plusieurs années. </p>
 
 ### Les psychothérapies analytiques brèves 
 
-<p> Ces thérapies sont destinées à faire disparaître la souffrance du patient dans un temps relativement court. Le psychanalyste s'attache, dans un espace de parole partagée, à écouter et à reconnaître chacun dans ce qu'il a d'intime et de singulier afin de permettre à laparole de produire des effets. Le but de ces thérapies est que le patient puisse envisager comment il est partie prenante dans les symptômes qui le tourmentent, afin de s'en dégager. Ces thérapies, réalisées en face à face sous forme de conversations personnalisées, durent de quelques séances à plusieurs mois. </p>
+<p> Ces thérapies sont destinées à faire disparaître la souffrance du patient dans un temps
+relativement court. Le psychanalyste s'attache, dans un espace de parole partagée, à écouter
+et à reconnaître chacun dans ce qu'il a d'intime et de singulier afin de permettre à la parole de produire des effets. Le but de ces thérapies est que le patient puisse envisager comment il est partie prenante dans les symptômes qui le tourmentent, afin de s'en dégager. Ces thérapies, réalisées en face à face sous forme de conversations personnalisées, durent de quelques séances à plusieurs mois. </p>
 
 <br/>
 
