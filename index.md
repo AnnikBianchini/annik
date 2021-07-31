@@ -3,7 +3,7 @@
 <div id='rdv'>
 <h3>Consultations sur rendez-vous</h3>
 <ul>
-<li>Par téléphone  au 06 83 56 85 61 et au 01 34 55 97 17</li>
+<li>Par téléphone  au 06 83 56 85 61 et au 01 34 69 47 02</li>
 <li>Par mail : <a href="mailto:a.bianchini@wanadoo.fr">a.bianchini@wanadoo.fr</a></li>
 </ul>
 </div>
