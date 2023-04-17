@@ -17,7 +17,7 @@ collectif
 - Œdipe à Alcala
 « L'invention de Don Quichotte : une figure de l'emprise de l'imaginaire », in Le désir du psychanalyste à l'épreuve de Don Quichotte, Editions des Crépuscules, Paris, 2012 : livre collectif.
 
-- Auteur de la rubrique « Le Cabinet de Lecture »  sur le site [œdipelesalon.com](http://www.oedipelesalon.com/cabinet/d_arpin_1216.html). Textes et commentaires de livres de psychanalyse, écrits par des psychanalystes.
+- Auteur de la rubrique « [Le Cabinet de Lecture](https://www.oedipelesalon.com/category/cabinet/) »  sur le site œdipelesalon.com. Textes et commentaires de livres de psychanalyse, écrits par des psychanalystes.
 
 - Publications  in  Che Vuoi ? , revue de psychanalyse, Le Cercle Freudien : « Aux limites du réel, de la jouissance et du poétique », Nouvelle série, n° 4, 2020, « Prendre le large ». « De l’amour et de la haine », Nouvelle série, N°1, 2016, « Le nouvel amour ». « Par-delà le désir et le rêve », 2018, « Séjourner dans le mythique », « Divinités ». Lectures : « Dérives adolescentes : de la délinquance au djihadisme », 2017 ; « Les revenants de la mémoire. Freud et Shakespeare », 2011.
 Revue Psychologie clinique, Lectures : « Variations de l'humeur, L'affect dans la clinique
@@ -60,10 +60,10 @@ inconscient », 2010.
 #### <FONT color="black"> <I> Arts, sciences, société </I> </FONT>
 
 - Actualité en France (MAEE) : 
-  * « [Lacan : trente ans après, une œuvre toujours vivante](http://www.ambafrance-kh.org/Lacan-trente-ans-apres-une-oeuvre)»
-  * «[A l'avant-garde mondiale, l'Observatoire de Paris]( http://www.ambafrance-tr.org/A-l-avant-garde-mondiale-l)», «[Marseille-Provence 2013, capitale européenne de la culture](http://www.ambafrance-pl.org/Marseille-Provence-2013-capitale)»
-  * «[Salon du livre : une vitalité remarquable](http://www.ambafrance-jp.org/Salon-du-Livre-une-vitalite)», «[Voyage à bord du mythique Orient-Express](http://www.france-taipei.org/Voyage-a-bord-du-mythique-Orient)», «[Secrètes ou insolites, les plus belles balades au cœur de Paris](http://www.ambafrance-nl.org/Secretes-ou-insolites-les-plus)»
-  * «[La France au cœur de la mission spatiale Rosetta, un défi technologique unique](http://www.ambafrance-cr.org/La-France-au-coeur-de-la-mission)», «[La France excelle dans la chirurgie sans ouvrir](http://www.ambafrance-am.org/La-France-excelle-dans-la-chirurgie-sans-ouvrir)», «[Les mathématiques françaises brillent par leur niveau d'excellence](http://www.ambafrance-nl.org/Les-mathematiques-francaises)»
+  * « Lacan : trente ans après, une œuvre toujours vivante »
+  * « A l'avant-garde mondiale, l'Observatoire de Paris », « Marseille-Provence 2013, capitale européenne de la culture »
+  * « Salon du livre : une vitalité remarquable », « Voyage à bord du mythique Orient-Express », « Secrètes ou insolites, les plus belles balades au cœur de Paris »
+  * « La France au cœur de la mission spatiale Rosetta, un défi technologique unique », « La France excelle dans la chirurgie sans ouvrir », «[Les mathématiques françaises brillent par leur niveau d'excellence](http://www.ambafrance-nl.org/Les-mathematiques-francaises)»
   
   
 #### <FONT color="black"> <I> Histoire </I> </FONT>
