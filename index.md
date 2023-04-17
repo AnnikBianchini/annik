@@ -3,18 +3,18 @@
 <div id='rdv'>
 <h3>Consultations sur rendez-vous</h3>
 <ul>
-<li>Par téléphone  au 06 83 56 85 61 et au 01 34 69 47 02</li>
+<li>Par téléphone  au 01 40 33 13 74 </li>
 <li>Par mail : <a href="mailto:a.bianchini@wanadoo.fr">a.bianchini@wanadoo.fr</a></li>
 </ul>
 </div>
 
 
-| <span style="font-size:small">Cabinet au :</span>| &nbsp; |<span style="font-size:small">Cabinet au :</span>|
-|--------------------------------------------------|--------|-------------------------------------------------|
-|15, rue de Sévigné 				   | &nbsp; | 36, Avenue du Chemin Vert                       |
-|75004 Paris                                       |  &nbsp; | 95290 L'Isle-Adam                               |
-|<span style="font-size:small">Métro Saint-Paul Le Marais</span> | &nbsp; |<span style="font-size:small">A 100 m de la clinique vétérinaire</span>|
-|![test](images/paris-salon-169.jpg)               |&nbsp; | ![test](images/l-isle-adam.jpg )                |
+| Cabinet au :| 
+|--------------------------------------------------|
+|25, rue Oudry 				   |
+|75013 Paris                                      |
+|<span style="font-size:small">Métro Les Gobelins</span> |
+|![test](images/paris-salon-169.jpg)               |
 
 
 
