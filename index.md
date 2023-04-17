@@ -31,8 +31,8 @@
 <table id="photo">
   <tbody>
     <tr>
-      <td>Ma pratique s’inscrit dans la continuité de la clinique psychanalytique telle qu’elle a été initialement définie par Sigmund Freud, réinterprétée par Jacques Lacan, puis développée jusqu’à aujourd’hui.</td>
-      <td style="width:200px"><img src="images/photo-annik.jpg" alt="photo annik bianchini" width="200px" height="193px" align="right"></td>
+      <td style="width:80%">Ma pratique s’inscrit dans la continuité de la clinique psychanalytique telle qu’elle a été initialement définie par Sigmund Freud, réinterprétée par Jacques Lacan, puis développée jusqu’à aujourd’hui.</td>
+      <td style="width:20%"><img src="images/photo-annik.jpg" alt="photo annik bianchini" width="200px" height="193px" align="right"></td>
     </tr>
   </tbody>
 </table>
