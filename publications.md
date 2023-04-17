@@ -60,7 +60,7 @@ inconscient », 2010.
 #### <FONT color="black"> <I> Arts, sciences, société </I> </FONT>
 
 - Actualité en France (MAEE) : 
-  * « Lacan : trente ans après, une œuvre toujours vivante »
+  * « [Lacan : trente ans après, une œuvre toujours vivante](http://www.ambafrance-kh.org/Lacan-trente-ans-apres-une-oeuvre) »
   * « A l'avant-garde mondiale, l'Observatoire de Paris », « Marseille-Provence 2013, capitale européenne de la culture »
   * « Salon du livre : une vitalité remarquable », « Voyage à bord du mythique Orient-Express », « Secrètes ou insolites, les plus belles balades au cœur de Paris »
   * « La France au cœur de la mission spatiale Rosetta, un défi technologique unique », « La France excelle dans la chirurgie sans ouvrir », «[Les mathématiques françaises brillent par leur niveau d'excellence](http://www.ambafrance-nl.org/Les-mathematiques-francaises)»
