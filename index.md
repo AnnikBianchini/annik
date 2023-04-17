@@ -14,7 +14,7 @@
 |25, rue Oudry 				   |
 |75013 Paris                                      |
 |<span style="font-size:small">Métro Les Gobelins</span> |
-|![test](images/canape-annik.jpg)               |
+|<img src="images/canape-annik.jpg" alt="canapé" width="600px" height="534px">               |
 
 
 
@@ -32,7 +32,7 @@
   <tbody>
     <tr>
       <td>Ma pratique s’inscrit dans la continuité de la clinique psychanalytique telle qu’elle a été initialement définie par Sigmund Freud, réinterprétée par Jacques Lacan, puis développée jusqu’à aujourd’hui.</td>
-      <td><img src="images/photo-annik.jpg" alt="test" width="200px" height="193px" align="right"></td>
+      <td><img src="images/photo-annik.jpg" alt="photo annik bianchini" align="right"></td>
     </tr>
   </tbody>
 </table>
