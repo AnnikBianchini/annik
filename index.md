@@ -13,7 +13,7 @@
 |--------------------------------------------------|
 |25, rue Oudry 				   |
 |75013 Paris                                      |
-|Métro Les Gobelins</span> |
+|Métro Les Gobelins |
 |<img src="images/canape-annik.jpg" alt="canapé" width="600px" height="534px">               |
 
 
