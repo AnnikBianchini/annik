@@ -64,7 +64,7 @@ inconscient », 2010.
   * « A l'avant-garde mondiale, l'Observatoire de Paris », « Marseille-Provence 2013, capitale européenne de la culture »
   * « Salon du livre : une vitalité remarquable », « Voyage à bord du mythique Orient-Express », « Secrètes ou insolites, les plus belles balades au cœur de Paris »
   * « La France au cœur de la mission spatiale Rosetta, un défi technologique unique », « La France excelle dans la chirurgie sans ouvrir », «[Les mathématiques françaises brillent par leur niveau d'excellence](http://www.ambafrance-nl.org/Les-mathematiques-francaises)»
-  * « Le Français J.M.G. le Clézio décroche le Prix Nobel de littérature ». « Les métiers d'Art : un atout d'excellence pour la France ». « Les plus belles expositions 2013 s'affichent à Paris ». « Les restaurants les plus insolites de Paris ».
+  * «[Le Français J.M.G. le Clézio décroche le Prix Nobel de littérature](https://www.barcelone.consulfrance.org/IMG/pdf/Le_Clezio.pdf)». «[Les métiers d'Art : un atout d'excellence pour la France](https://am.ambafrance.org)». «[Les plus belles expositions 2013 s'affichent à Paris](https://at.ambafrance.org) ». « Les restaurants les plus insolites de Paris ».
   
   
 #### <FONT color="black"> <I> Histoire </I> </FONT>
